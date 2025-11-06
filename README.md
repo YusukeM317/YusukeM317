@@ -45,14 +45,13 @@
     <h3>🌆 GitHub City</h3>
     <img 
       width="900"
-      height="300"
-      src="Github5.png" 
+      height="350"
+      src="Github6.png" 
       alt="GitHub City" 
     />
   </div>
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 </div>
-
 
 <br/>
 
