@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=22&pause=1000&color=F0DC82&random=false&width=800&lines=Hi%2C+my+name+is+Yusuke+Morimoto+and+I+am+a+Full+Stack+%26+Blockchain+Developer;こんにちは、森本祐介です。フルスタック%26ブロックチェーン開発者です。)](https://git.io/typing-svg)
 
+---
 
 <h2 align="center">👨‍💻 Technical Skills</h2>
 
@@ -17,21 +18,21 @@
 
 ---
 
-<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; align-items: flex-start;">
+<h2 align="center">📊 GitHub Stats</h2>
 
-  <!-- GitHub Stats -->
-  <div align="center">
-    <h3>🚀GitHub Overview</h3>
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=YusukeM317&layout=compact&theme=tokyonight" />
-  </div>
-
-  <!-- GitHub City -->
-  <div align="center">
-    <h3>🌆 GitHub City</h3>
-    <img width="400" src="https://honzaap.github.io/GithubCity/?name=YusukeM317&year=2018" alt="GitHub City" />
-  </div>
-
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=YusukeM317&layout=compact&theme=tokyonight" alt="GitHub Stats" />
 </div>
+
+<div align="center" style="margin-top: 20px;">
+  <h3>🌆 GitHub City</h3>
+  <img width="400" src="Github5.png" alt="GitHub City" />
+</div>
+
+
+
+
+
 
 ## 📊 GitHub Stats  
 
