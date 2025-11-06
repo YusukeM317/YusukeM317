@@ -23,9 +23,7 @@
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=YusukeM317&layout=compact&theme=tokyonight" />
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=YusukeM317&show_icons=true&count_private=true&theme=tokyonight" />
   <br>
-  <a href="https://git.io/streak-stats">
-    <img height="180" src="https://streak-stats.demolab.com?user=YusukeM317&theme=tokyonight" alt="GitHub Streak" />
-  </a>
+
 </div>
 
 
