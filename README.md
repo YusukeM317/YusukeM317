@@ -1,7 +1,8 @@
 <!-- 🌟 Yusuke Morimoto | Full Stack & Blockchain Developer -->
 <p align="center">
-  <img width="800" src="https://github-readme-stats.vercel.app/api/pin/?username=YusukeM317&repo=YusukeM317&show_icons=true&theme=tokyonight" alt="GitHub City" />
+  <img width="800" src="https://github-readme-stats.vercel.app/api?username=YusukeM317&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&include_all_commits=true&layout=compact&show_icons=true&hide_border=true&city=true" alt="GitHub City" />
 </p>
+
 
 <p align="center">
   <img width="800" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+%26+Blockchain+Developer;React+%7C+Next.js+%7C+Node+%7C+Solidity+%7C+Web3.js;6%2B+Years+of+Experience+in+Web+%26+Blockchain+Development" alt="Typing Animation" />
