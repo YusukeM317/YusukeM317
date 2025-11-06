@@ -1,5 +1,43 @@
 
-<br> </br>
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+    width="45" 
+    style="vertical-align: middle; margin-right: 10px;"
+  >
+<img 
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+    width="45" 
+    style="vertical-align: middle; margin-left: 10px;"
+  >
+  <img 
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+    width="45" 
+    style="vertical-align: middle; margin-left: 10px;"
+  >
+  <img 
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+    width="45" 
+    style="vertical-align: middle; margin-left: 10px;"
+  >
+  <img 
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+    width="45" 
+    style="vertical-align: middle; margin-left: 10px;"
+  >
+  <img 
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+    width="45" 
+    style="vertical-align: middle; margin-left: 10px;"
+  >
+  <img 
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+    width="45" 
+    style="vertical-align: middle; margin-left: 10px;"
+  >
+</p>
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=30&pause=1000&color=F0DC82&random=false&width=1100&lines=Hi%2C+My+name+is+Yusuke+Morimoto+and+I+am+a+Full+Stack+%26+Blockchain+Developer+!;こんにちは、森本祐介と申します。フルスタック%26ブロックチェーン開発者です。)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=30&pause=1000&colorList=F0DC82,FF4C4C,FF1493,1E90FF,00C957&width=1100&lines=こんにちは、森本祐介と申します。フルスタック%26ブロックチェーン開発者です。;Hi%2C+My+name+is+Yusuke+Morimoto+and+I+am+a+Full+Stack+%26+Blockchain+Developer+!)](https://git.io/typing-svg)
