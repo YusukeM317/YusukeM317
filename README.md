@@ -9,3 +9,9 @@
 <p align="center">
   <img width="800" src="https://honzaap.github.io/GithubCity/?name=YusukeM317&year=2018" alt="GitHub City" />
 </p>
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
