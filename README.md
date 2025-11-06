@@ -17,20 +17,21 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; align-items: flex-start;">
 
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=YusukeM317&layout=compact&theme=tokyonight" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=YusukeM317&show_icons=true&count_private=true&theme=tokyonight" />
-  <br>
+  <!-- GitHub Stats -->
+  <div align="center">
+    <h3>🚀GitHub Overview</h3>
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=YusukeM317&layout=compact&theme=tokyonight" />
+  </div>
+
+  <!-- GitHub City -->
+  <div align="center">
+    <h3>🌆 GitHub City</h3>
+    <img width="400" src="https://honzaap.github.io/GithubCity/?name=YusukeM317&year=2018" alt="GitHub City" />
+  </div>
 
 </div>
-
-
-## `🌆` GitHub City
-<p align="center">
-  <img width="800" src="https://honzaap.github.io/GithubCity/?name=YusukeM317&year=2018" alt="GitHub City" />
-</p>
 
 ## 📊 GitHub Stats  
 
