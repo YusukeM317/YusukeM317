@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=22&pause=1000&color=F0DC82&random=false&width=800&lines=Hi%2C+my+name+is+Yusuke+Morimoto+and+I+am+a+Full+Stack+%26+Blockchain+Developer;こんにちは、森本祐介です。フルスタック%26ブロックチェーン開発者です。)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=30&pause=1000&color=F0DC82&random=false&width=1100&lines=Hi%2C+My+name+is+Yusuke+Morimoto+and+I+am+a+Full+Stack+%26+Blockchain+Developer+!;こんにちは、森本祐介です。フルスタック%26ブロックチェーン開発者です。)](https://git.io/typing-svg)
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
